@@ -1,0 +1,26 @@
+{
+  "name": "comphp/assets",
+  "version": "0.3",
+  "autoload": {
+    "psr-4": {
+      "CommonPHP\\Assets\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "CommonPHP\\Assets\\Tests\\": "tests/"
+    }
+  },
+  "repositories": [
+    {
+      "type": "path",
+      "url": "../*",
+      "options": {
+        "symlink": true
+      }
+    }
+  ],
+  "require": {
+    "php": "^8.5"
+  }
+}
