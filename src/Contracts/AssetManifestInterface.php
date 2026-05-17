@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace CommonPHP\Assets\Contracts;
 
-interface AsstManifestInterface
+interface AssetManifestInterface
 {
 
 }
