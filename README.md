@@ -36,6 +36,7 @@ Missing assets, unreadable files, invalid paths, and response failures should th
 
 ## Documentation
 
+- [Documentation index](docs/index.md)
 - [Usage](docs/usage.md)
 - [Testing](TESTING.md)
 - [Contributing](CONTRIBUTING.md)

@@ -6,5 +6,5 @@ namespace CommonPHP\Assets\Contracts;
 
 interface MimeTypeResolverInterface
 {
-
+    public function resolve(string $path): string;
 }
